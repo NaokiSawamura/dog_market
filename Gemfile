@@ -70,3 +70,4 @@ gem 'kaminari'
 gem 'mechanize'
 gem 'gretel'
 gem 'jquery-rails'
+gem 'whenever', require: false
